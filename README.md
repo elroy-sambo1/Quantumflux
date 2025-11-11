@@ -19,8 +19,8 @@ This project implements **real-time object detection and multi-object tracking**
 1.  **Clone the repository and navigate to the directory:**
 
 ```bash
-git clone https://github.com/yourusername/real-time-tracking.git
-cd real-time-tracking
+git clone https://github.com/elroy-sambo1/Quantumflux.git
+cd Quantumflux
 ```
 
 2.  **Switch to the `phase2` branch:**
